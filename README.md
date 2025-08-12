@@ -4,9 +4,12 @@ I am building a modern data warehouse with SQL Server , including ETL processes 
 
 This project demonstrates a comprehensive date warehousing and analytics solution , from building data warehouse to generating insights. Designed as a portfolio project highlighting industry best practices in data engineering and analytics.
 
+ **Data Architecture**
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+
 <h1>Building the Data Warehouse</h1>
 
-Objective
+Objective: 
 Build a SQL Server–based data warehouse to bring together sales data from different systems, making it easier to run reports and support decision-making.
 
 ## Details
